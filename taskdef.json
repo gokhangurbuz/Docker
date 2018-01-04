@@ -2,7 +2,7 @@
     "family": "staging", 
     "containerDefinitions": [{
         "name": "staging-container", 
-        "image": "149178552693.dkr.ecr.us-east-1.amazonaws.com/docker-ecs", 
+        "image": "149178552693.dkr.ecr.us-east-1.amazonaws.com/docker-ecs:${BUILD_NUMBER}", 
         "cpu": 10, 
         "memory": 500, 
         "portMappings": [{
