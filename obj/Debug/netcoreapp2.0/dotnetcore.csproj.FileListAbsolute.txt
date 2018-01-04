@@ -1,0 +1,10 @@
+C:\Users\ggurbuz\Desktop\dotnetcore\bin\Debug\netcoreapp2.0\dotnetcore.deps.json
+C:\Users\ggurbuz\Desktop\dotnetcore\bin\Debug\netcoreapp2.0\dotnetcore.runtimeconfig.json
+C:\Users\ggurbuz\Desktop\dotnetcore\bin\Debug\netcoreapp2.0\dotnetcore.runtimeconfig.dev.json
+C:\Users\ggurbuz\Desktop\dotnetcore\bin\Debug\netcoreapp2.0\dotnetcore.dll
+C:\Users\ggurbuz\Desktop\dotnetcore\bin\Debug\netcoreapp2.0\dotnetcore.pdb
+C:\Users\ggurbuz\Desktop\dotnetcore\obj\Debug\netcoreapp2.0\dotnetcore.csproj.CoreCompileInputs.cache
+C:\Users\ggurbuz\Desktop\dotnetcore\obj\Debug\netcoreapp2.0\dotnetcore.AssemblyInfoInputs.cache
+C:\Users\ggurbuz\Desktop\dotnetcore\obj\Debug\netcoreapp2.0\dotnetcore.AssemblyInfo.cs
+C:\Users\ggurbuz\Desktop\dotnetcore\obj\Debug\netcoreapp2.0\dotnetcore.dll
+C:\Users\ggurbuz\Desktop\dotnetcore\obj\Debug\netcoreapp2.0\dotnetcore.pdb
