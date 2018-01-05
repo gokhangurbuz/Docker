@@ -1,5 +1,5 @@
 {
-    "family": "staging",
+    "family": "development",
     "containerDefinitions": [
         {
             "image": "%REPOSITORY_URI%:v_%BUILD_NUMBER%",
