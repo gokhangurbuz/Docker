@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "image": "%REPOSITORY_URI%:v_%BUILD_NUMBER%",
-            "name": "staging-container",
+            "name": "development-container",
             "cpu": 10,
             "memory": 400,
             "essential": true,
