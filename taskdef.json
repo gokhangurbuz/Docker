@@ -6,7 +6,12 @@
             "name": "dev-container",
             "cpu": 10,
             "memory": 400,
-            "essential": true
+            "essential": true,
+            "portMappings": [
+                {
+                    "containerPort": 80
+                }
+            ]
         }
     ]
 }
